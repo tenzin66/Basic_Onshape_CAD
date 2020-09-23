@@ -1,3 +1,3 @@
 # Basic_Onshape_CAD
 
-![Base](images/Part 1  Base.png)
+<img src="images/Part 1 Base.png" alt="Base" width="50" height="50">
