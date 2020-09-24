@@ -11,3 +11,5 @@ rectangle shortcut (r)
 dimension shortcut (d)
 
 circle shortcut (c)
+
+and Linear patterns
