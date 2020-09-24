@@ -7,5 +7,7 @@
 It was pretty simple. I got the hang of out early on because I've used solidworks before. I learned about
 
 rectangle shortcut (r)
+
 dimension shortcut (d)
+
 circle shortcut (c)
