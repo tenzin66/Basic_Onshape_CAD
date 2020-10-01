@@ -1,16 +1,105 @@
-# Basic_Onshape_CAD
+# BasicCAD
 
-Base on Onshape(https://cvilleschools.onshape.com/documents/ad830a070c8864515bea5727/w/46c209c91d6893be1e034a87/e/d90b0d9af8472364d37af5c1)
-<img src="images/Part1Base.jpg" alt="Base" width="128" height="128">
+We are creating a caster.
+
+---
+## Table of Contents
+* [Table of Contents](#Table-of-Contents)
+* [Base](#Base)
+* [Mount](#Mount)
+* [Fork](#Fork)
+* [Tire](#Tire)
+* [Wheel](#Wheel)
+* [AxleCollarBearings](#AxleCollarBearings)
+
+## Base
+
+### Description
+
+The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
+
+### Evidence
+[The Base in Onshape](https://cvilleschools.onshape.com/documents/ad830a070c8864515bea5727/w/46c209c91d6893be1e034a87/e/d90b0d9af8472364d37af5c1)
+
+### Image
+
+<img src="images/Part1Base.jpg" alt="Base" width="200" height="200">
+
+### Reflection
+
+This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
+* sketching (shortcut **shift-s**)
+* constructions lines (shortcut **Q**)
+* dimensions (shortcut **D**)
+* extruding both add and remove (shortcut key **E**)
+* linear patterns (no shortcut)
+* very easy to understand
+
+Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+
+---
 
 
-# Reflection 
-It was pretty simple. I got the hang of out early on because I've used solidworks before. I learned about
+## Mount
 
-rectangle shortcut (r)
+### Description
 
-dimension shortcut (d)
+### Evidence
 
-circle shortcut (c)
+### Image
 
-and Linear patterns
+### Reflection
+
+---
+
+
+## Fork
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+## Tire
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+## Wheel
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+## AxleCollarBearings
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
