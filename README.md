@@ -41,9 +41,9 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 
 ## Mount
-
+<img src="images/Part2Mount.jpg" alt="Base" width="200" height="200">
 ### Description
-MOunt for the Base.
+Mount for the Base.
 ### Evidence
 [Onshape Mount](https://cvilleschools.onshape.com/documents/ad830a070c8864515bea5727/w/46c209c91d6893be1e034a87/e/d90b0d9af8472364d37af5c1)
 ### Image
