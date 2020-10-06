@@ -67,11 +67,22 @@ Mount for the Base.
 
 ### Description
 
+Fork for the caster.
+
 ### Evidence
+
+[Fork](https://cvilleschools.onshape.com/documents/c33819194e8790a5560da215/w/8269aa8635eb372a81d2192e/e/ff6cce621dbb8dcfe0872723)
 
 ### Image
 
+<img src="images/Part3Fork.png" alt="Base" width="200" height="200">
+
 ### Reflection
+
+It was simple like the rest, but It was a little challenging. It introduced stuff that I didn't know about.
+* chamfer 
+* concentric
+* Fillet
 
 ---
 
