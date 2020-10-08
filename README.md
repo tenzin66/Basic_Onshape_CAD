@@ -114,11 +114,22 @@ It was pretty fun and it was very different from the last parts.
 
 ### Description
 
+Wheel for the caster.
+
 ### Evidence
+
+[Wheel](https://cvilleschools.onshape.com/documents/37551a83ff299fcf33109f29/w/462db124c24d3edf044838d1/e/061ce9e6299f15d6be461984)
 
 ### Image
 
+<img src="images/Part5Wheel.png" alt="Base" width="200" height="200">
+
 ### Reflection
+
+* pretty simple since there's a tutorial
+* tricky at the begenning 
+* messed up by sketching on the wrong plane 
+* corrected myself by doing it on the correct plane
 
 ---
 
