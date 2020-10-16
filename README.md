@@ -148,7 +148,7 @@ Axle, Collar, and Bearings for the caster.
 
 <img src="images/WheelBearing.jpg" alt="Base" width="200" height="150">
 
-<img src="images/Washer" alt="Base" width="200" height="150">
+<img src="images/Washer.jpg" alt="Base" width="200" height="150">
 
 ### Reflection
 
