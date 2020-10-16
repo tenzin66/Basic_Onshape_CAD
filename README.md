@@ -138,10 +138,21 @@ Wheel for the caster.
 
 ### Description
 
+Axle, Collar, and Bearings for the caster.
+
 ### Evidence
 
-### Image
 
+### Image
+<img src="images/Part6Axle.jpg" alt="Base" width="200" height="150">
+
+<img src="images/WheelBearing.jpg" alt="Base" width="200" height="150">
+
+<img src="images/Washer" alt="Base" width="200" height="150">
 ### Reflection
+
+* easy to understand
+* little confusing at the start
+* fun and enjoyable
 
 ---
