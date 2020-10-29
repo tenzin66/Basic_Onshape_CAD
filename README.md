@@ -11,7 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-* [Wheel And Axle] (#Wheel And Axle)
+* [WheelAxle] (#WheelAxle)
 
 ## Base
 
@@ -158,7 +158,7 @@ Axle, Collar, and Bearings for the caster.
 * fun and enjoyable
 
 
-## Wheel And Axle
+## WheelAxle
 
 ## Description
 
