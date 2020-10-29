@@ -169,7 +169,7 @@ Sub-Assembly for the Wheel and Axle.
 
 ## Image
 
-<img src="images/WheelAndAxle" alt="Base" width="200" height="150">
+<img src="images/WheelAndAxle.jpg" alt="Base" width="200" height="150">
 
 ## Reflection
 
