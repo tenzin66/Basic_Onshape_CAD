@@ -11,7 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-* [Wheel And Axle] (#Wheel-And-Axle)
+* [Wheel And Axle] (#Wheel And Axle)
 
 ## Base
 
