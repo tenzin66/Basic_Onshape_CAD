@@ -143,6 +143,9 @@ Axle, Collar, and Bearings for the caster.
 
 ### Evidence
 
+[Axle](https://cvilleschools.onshape.com/documents/8ab8eeac621398d213f97e6e/w/b78520e967fd2599cd2d805d/e/ec1d75066163bf2e5b773cf8)
+[Wheel/Tire with Bearing](https://cvilleschools.onshape.com/documents/37551a83ff299fcf33109f29/w/462db124c24d3edf044838d1/e/061ce9e6299f15d6be461984)
+[Bearing](https://cvilleschools.onshape.com/documents/bac246450a9618cea8a952b6/w/b3aa7ff7341c8e18351bad96/e/ea663e7a77ce2999601f7079)
 
 ### Image
 <img src="images/Part6Axle.jpg" alt="Base" width="200" height="150">
@@ -158,7 +161,7 @@ Axle, Collar, and Bearings for the caster.
 * fun and enjoyable
 
 
-## WheelAxle
+## Sub-Assembly
 
 ## Description
 
@@ -166,7 +169,7 @@ Sub-Assembly for the Wheel and Axle.
 
 ## Evidence
 
-
+[SubAssembly](https://cvilleschools.onshape.com/documents/daf0484a689287cc8ec5c9d4/w/88b30f40be57f34b0dbe5a8d/e/abcd022104a4c23edf0e99cc)
 
 ## Image
 
