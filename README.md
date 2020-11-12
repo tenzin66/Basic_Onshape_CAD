@@ -192,7 +192,7 @@ The final assembly.
 
 ## Image 
 
-<img src="images/assembly.jpg" alt="Base" width="200" height="150">
+<img src="images/Assembly.jpg" alt="Base" width="200" height="150">
 
 ## Reflection
 
