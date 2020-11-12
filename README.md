@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Assembly](#Assembly)
 
 
 ## Base
@@ -132,7 +133,6 @@ Wheel for the caster.
 * messed up by sketching on the wrong plane 
 * corrected myself by doing it on the correct plane
 
----
 
 
 ## AxleCollarBearings
@@ -179,6 +179,25 @@ Sub-Assembly for the Wheel and Axle.
 
 * fun to assemble
 * not that hard
-* fun learning experince
+* fun learning experience
+
+
+## Assembly
+
+## Description
+
+The final assembly.
+
+## Evidence
+
+## Image 
+
+<img src="images/assembly.jpg" alt="Base" width="200" height="150">
+
+## Reflection
+
+* it was fun to do
+* messed up a mate at the start so had to fix that
+* learned a lot
 
 ---
