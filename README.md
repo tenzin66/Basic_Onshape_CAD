@@ -81,7 +81,8 @@ Fork for the caster.
 
 ### Reflection
 
-It was simple like the rest, but It was a little challenging. It introduced stuff that I didn't know about.
+It was simple like the rest, but It was a little challenging. It introduced stuff that I didn't know about.\
+
 * chamfer 
 * concentric
 * Fillet
@@ -105,6 +106,7 @@ Tire for the caster.
 ### Reflection
 
 It was pretty fun and it was very different from the last parts.
+
 * used lined instead of shape sketches
 * used revolve instead of extrude
 * very simple and enjoyable
@@ -127,6 +129,8 @@ Wheel for the caster.
 <img src="images/Part5Wheel.png" alt="Base" width="200" height="200">
 
 ### Reflection
+
+This one was a little tricky to me. Half way through I realized that I had messed up and had to start over but after carefully watching the video, I slowly learned how to do it and not mess up. 
 
 * pretty simple since there's a tutorial
 * tricky at the begenning 
@@ -156,6 +160,8 @@ Axle, Collar, and Bearings for the caster.
 
 ### Reflection
 
+Took a little time to understand but I got there in the end. This one was also a little tricky but all I needed to do was focus on this and only this. 
+
 * easy to understand
 * little confusing at the start
 * fun and enjoyable
@@ -177,6 +183,8 @@ Sub-Assembly for the Wheel and Axle.
 
 ## Reflection
 
+It was very fun to assemble. Even if I did something wrong I learned from my mistakes and fixed it. 
+
 * fun to assemble
 * not that hard
 * fun learning experience
@@ -196,6 +204,8 @@ The final assembly.
 <img src="images/Assembly.jpg" alt="Base" width="200" height="150">
 
 ## Reflection
+
+This was also very fun to assemble. I didn't mess up that much so I didn't take that long on this. 
 
 * it was fun to do
 * messed up a mate at the start so had to fix that
